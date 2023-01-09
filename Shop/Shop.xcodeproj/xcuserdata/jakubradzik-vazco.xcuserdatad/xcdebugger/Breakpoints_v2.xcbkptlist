@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC58491A-7059-4B1C-B8FF-DC688DAA2AF3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BABC9D6-1E2B-4CF2-BE09-47C8CEA87C57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shop/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "data"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1BABC9D6-1E2B-4CF2-BE09-47C8CEA87C57 - e2902613ad437ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shop.ContentView.init(selectedCategory: Swift.Int, selectedSubCategory: Swift.Int) -&gt; Shop.ContentView"
+                  moduleName = "Shop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubradzik-vazco/Desktop/STUDIA%20SEM%205/Mobile-Applications-iOS/Shop/Shop/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "1BABC9D6-1E2B-4CF2-BE09-47C8CEA87C57 - 912f93d64f095681"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shop.ContentView.init() -&gt; Shop.ContentView"
+                  moduleName = "Shop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubradzik-vazco/Desktop/STUDIA%20SEM%205/Mobile-Applications-iOS/Shop/Shop/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06B6BBF1-A3A4-4940-8261-E2DD2ADE5E60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shop/CategoriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
